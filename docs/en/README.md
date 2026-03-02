@@ -13,6 +13,6 @@ Filipa Maria Lopes Mendes
 * ...
 
 ---
-> Metodologias de Desenvolvimento de Software @2020
+> Software Development Methodologies @2020
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvYbuPATvjBxFSU8yN9aSVljtYv54h4ovo3A&s)
